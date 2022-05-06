@@ -5,13 +5,13 @@
 # COVID Tracker App
 
 **COVID Tracker app** is an android application which helps the users to get insights into the impact of COVID-19 on all the states and union territories of **India**. This application will provide information such as:
--Number of **confirmed** cases
--Number of **active** cases
--Number of **deaths**
--Number of people **recovered** from COVID-19
--Number of **COVID-19 tests** performed
--The number of people who are **vaccinated** with a single dose and two doses.
--Total **population** of the selected state or union territory.
+- Number of **confirmed** cases.
+- Number of **active** cases.
+- Number of **deaths**.
+- Number of people **recovered** from COVID-19.
+- Number of **COVID-19 tests** performed.
+- The number of people who are **vaccinated** with a single dose and two doses.
+- Total **population** of the selected state or union territory.
 
 The user interface of the application is user-friendly and easy to understand.
 
