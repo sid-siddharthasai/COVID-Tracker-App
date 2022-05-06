@@ -4,34 +4,35 @@
 
 # COVID Tracker App
 
-**COVID Tracker app** is an android application which helps the users to get insights of impact of COVID-19 on all the states and union teritories of **India**. This application will provide information such as:
-- Number of **confirmed** cases
-- Number of **active** cases
-- Number of **deaths**
-- Number of people **recovered** from COVID-19
-- Number of **COVID-19 tests** performed
-- Number of people of who are **vaccinated** with single dose and two doses.
-- **Total population** of the selected state or union teritory. 
+**COVID Tracker app** is an android application which helps the users to get insights into the impact of COVID-19 on all the states and union territories of **India**. This application will provide information such as:
+-Number of **confirmed** cases
+-Number of **active** cases
+-Number of **deaths**
+-Number of people **recovered** from COVID-19
+-Number of **COVID-19 tests** performed
+-The number of people who are **vaccinated** with a single dose and two doses.
+-Total **population** of the selected state or union territory.
 
 The user interface of the application is user-friendly and easy to understand.
 
 <br/>![ui](images/app_ui.gif)
 
-Users can easily get the above information of each state and union teritories by selecting their desired state or union teritory from the provided drop down.
+Users can get the above information about each state and union territory by selecting their desired state or union territory from the provided dropdown.
 
 <br/>![dropdown](images/app_drop.gif)
 
 If a user opens this application in the absence of internet then user will be greeted with an alert box.
+
 <br/>![alert](images/no_internet.gif)
 
-This application uses provides the information to the users with the help of **REST API**. Due to this users can access the information anytime and anywhere with the help of an active internet connection.
+This application provides the information to the users with the help of REST API. Due to this, users can access the information anytime and anywhere in the presence of an active internet connection.
 
 ## Features
 
 - With the help of an active internet connection users can access the information anywhere and anytime instantly.
 - The information is updated on a daily basis.
 - The provided pie chart helps the user to assess the impact of COVID-19.
-- This application supports screen sizes from 4.7 inch to current available sizes.
+-This application supports screen sizes from 4.7 inches to current available sizes.
 
 
 ## Libraries used
